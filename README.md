@@ -1,4 +1,4 @@
-# udacity_sagemaker project
+# Udacity SageMaker Sentiment Analysis Project
 Creating a Sentiment Analysis Web App(Deployement)
 Using PyTorch and SageMaker
 
